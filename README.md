@@ -26,9 +26,10 @@ The program measures the execution time of each sorting algorithm for different 
     - [Counting Sort](#counting-sort)
     - [Shell Sort](#shell-sort)
 2. [Files](#files)
-3. [Structure](#structure)
-4. [License](#license)
-5. [Author](#author)
+3. [Output](#Output)
+4. [Structure](#structure)
+5. [License](#license)
+6. [Author](#author)
 
 
 ## Algorithms
@@ -109,6 +110,10 @@ Shell sort is a variation of insertion sort that allows the exchange of items th
 - `plotting_functions.py`: File containing functions for different types of data visualization.
 - `main.py`: Main script to compare the performance of sorting algorithms and generate plots.
 - `README.md`: This file, providing an overview of the project.
+
+## Output
+
+![Comparison plot of algorithms' output](https://github.com/yehonatanke/Sorting_Algorithm_Performance_Comparison/blob/main/output/output_algoCompare.png)
 
 ## Structure
 
